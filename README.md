@@ -1,4 +1,4 @@
-# j<h1 align="center">Hello Folks 👋, I'm Jahangir Khan</h1>
+<h1 align="center">Hello Folks 👋, I'm Jahangir Khan</h1>
 <h3 align="center">Python Developer and I.T Support Specialist</h3>
 <br>
 
