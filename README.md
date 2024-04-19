@@ -64,4 +64,3 @@ Hello, I am [Jahangir Khan](https://www.linkedin.com/in/jahangir-khan-20772785//
  <a href="https://www.linkedin.com/in/jahangir-khan-20772785/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahangir7389" height="30" width="40" /></a>
 <a href="https://twitter.com/jahangir7389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahangir7389" height="30" width="40" /></a>
 </p>
-ahangir7389
